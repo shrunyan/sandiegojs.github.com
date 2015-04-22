@@ -16,4 +16,8 @@ Help contribute to the San Diego Python website. They are looking for folks who 
 - [SD Python Github Repo](https://github.com/pythonsd/pythonsd.org)
 
 
+## Write The Docs
+
+Contribute to the documentation for an open source project. __Spell checking is greatly appreciated.__
+
 __Have something to add to this page? Make a pull request in the [sandiegojs.github.com repository](https://github.com/sandiegojs/sandiegojs.github.com)__
